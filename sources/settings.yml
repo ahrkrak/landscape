@@ -11,7 +11,7 @@
 #
 # foundation: <FOUNDATION_NAME>
 #
-foundation: CNCF
+foundation: Microsoft OSS
 
 # Url (required)
 #
@@ -111,7 +111,7 @@ colors:
 #
 # description: <LANDSCAPE_DESCRIPTION>
 #
-description: The CNCF Landscape showcases cloud native projects and members.
+description: The Microsoft OSS Landscape showcases cloud native projects and members.
 
 # End user (optional)
 #
@@ -283,7 +283,7 @@ header:
     github: "https://github.com/cncf/landscape"
   logo: "sources/images/logo.svg"
   motd: |
-    "Welcome to the CNCF Landscape!"
+    "Welcome to the Microsoft OSS Landscape!"
 
 # Hide organization section in projects (optional)
 #
