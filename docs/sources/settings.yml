@@ -19,7 +19,7 @@ foundation: CNCF
 #
 # url: <LANDSCAPE_URL>
 #
-url: https://landscape.cncf.io
+url: https://ahrkrak.github.io/landscape
 
 # Analytics (optional)
 #
@@ -39,6 +39,7 @@ url: https://landscape.cncf.io
 #
 # base_path: /<BASE_PATH>
 #
+base_path: /landscape
 
 # Categories (optional)
 #
