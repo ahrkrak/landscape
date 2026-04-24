@@ -302,7 +302,7 @@ hide_organization_section_in_projects: false
 #
 images:
   favicon: "https://raw.githubusercontent.com/cncf/artwork/master/other/cncf-landscape/icon/color/cncf-landscape-icon-color.png"
-  open_graph: "sources/images/logo.svg"
+  open_graph: "https://raw.githubusercontent.com/ahrkrak/landscape/master/sources/images/logo.svg"
 
 # Logos viewbox (optional)
 #
