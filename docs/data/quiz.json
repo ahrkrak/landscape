@@ -1,0 +1,1 @@
+[{"title":"Which of the following projects provides an open source container orchestration engine for automating deployment, scaling, and management of containerized applications?","options":[{"item":"Kubernetes","category":"Orchestration & Management","subcategory":"Scheduling & Orchestration","correct":true},{"item":"gRPC"},{"item":"Cilium"}]}]
