@@ -247,11 +247,11 @@
   <g transform="translate(23, 96)">
     <g>
       <circle class="circle" cx="45" cy="45" r="40" stroke-width="5" />
-      <circle class="chart-circle circle-a" cx="45" cy="45" r="40" stroke-width="5" stroke-dasharray="479.26937499999997" transform="rotate(-90 45 45)" />
+      <circle class="chart-circle circle-a" cx="45" cy="45" r="40" stroke-width="5" stroke-dasharray="481.88833333333326" transform="rotate(-90 45 45)" />
     </g>
 
     <g class="global">
-      <text x="45" y="57" text-anchor="middle" color="#38383f">91</text>
+      <text x="45" y="57" text-anchor="middle" color="#38383f">92</text>
     </g>
   </g>
 
@@ -451,7 +451,7 @@
       />
 
       <g class="value">
-        <text x="150" y="13" text-anchor="middle">68</text>
+        <text x="150" y="13" text-anchor="middle">73</text>
       </g>
 
      <g transform="translate(175, 7)">
@@ -467,7 +467,7 @@
           x="0"
           y="0"
           height="4"
-          width="72"
+          width="77"
           class="bar-b"
         />
       </g>
