@@ -2,9 +2,7 @@ name: Build GitHub Pages
 
 on:
   push:
-    branches:
-      - main
-      - master
+    branches: [master]
     paths:
       - 'landscape.yml'
       - 'hosted_logos/**'
@@ -23,22 +21,28 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
+      - uses: actions/checkout@v4
 
-      - name: Build site (Landscape2)
-        uses: docker://ghcr.io/cncf/landscape2:latest
-        with:
-          args: >-
-            landscape2 build
-            --data-file landscape.yml
-            --settings-file sources/settings.yml
-            --guide-file sources/guide.yml
-            --games-file sources/games.yml
-            --logos-path hosted_logos
-            --output-dir docs
+      - name: Ensure docs dir exists
+        run: |
+          mkdir -p docs
+          chmod -R u+rwX,go+rX,go-w docs || true
+
+      - name: Build site (Landscape2 via docker run)
+        run: |
+          docker pull ghcr.io/cncf/landscape2:latest
+          docker run --rm \
+            --user 0:0 \
+            -v "$GITHUB_WORKSPACE":/work \
+            -w /work \
+            ghcr.io/cncf/landscape2:latest \
+            landscape2 build \
+              --data-file landscape.yml \
+              --settings-file sources/settings.yml \
+              --guide-file sources/guide.yml \
+              --games-file sources/games.yml \
+              --logos-path hosted_logos \
+              --output-dir docs
 
       - name: Commit and push docs/
         run: |
@@ -46,7 +50,6 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          # Only commit if docs/ changed
           git add -A docs
           if git diff --cached --quiet; then
             echo "No changes to docs/; skipping commit."
