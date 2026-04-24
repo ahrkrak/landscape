@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 60" width="320" height="60" role="img" aria-label="Microsoft Open Source Landscape">
+  <!-- Microsoft logo squares (same colors - they stay the same in the white version) -->
+  <rect x="0" y="8" width="20" height="20" fill="#F25022"/>
+  <rect x="22" y="8" width="20" height="20" fill="#7FBA00"/>
+  <rect x="0" y="30" width="20" height="20" fill="#00A4EF"/>
+  <rect x="22" y="30" width="20" height="20" fill="#FFB900"/>
+  <!-- Microsoft wordmark (white) -->
+  <text x="50" y="28" font-family="'Segoe UI', Arial, sans-serif" font-size="18" font-weight="600" fill="#FFFFFF" letter-spacing="0">Microsoft</text>
+  <!-- Open Source Landscape subtitle (white) -->
+  <text x="50" y="46" font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-weight="400" fill="#CCCCCC" letter-spacing="0.5">Open Source Landscape</text>
+</svg>
