@@ -1,12 +1,17 @@
-# IDEA/Webstorm project files
-.idea
-*.iml
-
-# VSCode metadata
-.vscode
-
-# Mac files
+# macOS
 .DS_Store
 
-# VIM swap files
-*.swp
+# Editors
+.vscode/
+.idea/
+
+# Landscape2 / build caches (only if you create these later)
+.cache/
+cache/
+tmp/
+temp/
+
+# If you ever build somewhere other than docs/, keep it out of git
+build/
+dist/
+out/
