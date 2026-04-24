@@ -1,0 +1,57 @@
+name: Build GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+      - master
+    paths:
+      - 'landscape.yml'
+      - 'hosted_logos/**'
+      - 'sources/**'
+      - '.github/workflows/pages.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pages-build
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Build site (Landscape2)
+        uses: docker://ghcr.io/cncf/landscape2:latest
+        with:
+          args: >-
+            landscape2 build
+            --data-file landscape.yml
+            --settings-file sources/settings.yml
+            --guide-file sources/guide.yml
+            --games-file sources/games.yml
+            --logos-path hosted_logos
+            --output-dir docs
+
+      - name: Commit and push docs/
+        run: |
+          set -euxo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Only commit if docs/ changed
+          git add -A docs
+          if git diff --cached --quiet; then
+            echo "No changes to docs/; skipping commit."
+            exit 0
+          fi
+
+          git commit -m "chore(pages): rebuild docs [skip ci]"
+          git push
