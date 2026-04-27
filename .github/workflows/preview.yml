@@ -18,7 +18,7 @@ jobs:
   comment:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/github-script@v7
+      - uses: actions/github-script@v9
         env:
           LANDSCAPE_URL: 'https://landscape.cncf.io'
           DATA_FILE: 'landscape.yml'
