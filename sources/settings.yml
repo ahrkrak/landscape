@@ -171,7 +171,7 @@ featured_items:
         label: CNCF Incubating
     exclude:
       groups:
-        - Certified partners and providers
+        - Foundations
   - field: subcategory
     options:
       - value: Platinum
@@ -246,7 +246,26 @@ grid_items_size: small
 #       - <CATEGORY2_NAME>
 #
 groups:
-  - name: Projects and products
+  - name: Projects and Foundations
+    alias: all
+    categories:
+      - App Definition and Development
+      - Orchestration & Management
+      - Runtime
+      - Provisioning
+      - Observability and Analysis
+      - Platform
+      - Serverless
+      - Special
+      - Wasm
+      - AI Agent
+      - Inference
+      - Data
+      - Training
+      - AI Native Infra
+      - CNCF Members
+      - FOSS Fund
+  - name: Projects
     alias: projects
     categories:
       - App Definition and Development
@@ -254,19 +273,23 @@ groups:
       - Runtime
       - Provisioning
       - Observability and Analysis
-  - name: Members
+      - Platform
+      - Serverless
+      - Special
+      - Wasm
+      - AI Agent
+      - Inference
+      - Data
+      - Training
+      - AI Native Infra
+  - name: Foundations
+    alias: foundations
     categories:
       - CNCF Members
-  - name: Certified partners and providers
+  - name: FOSS Fund
+    alias: foss-fund
     categories:
-      - Platform
-      - Special
-  - name: Serverless
-    categories:
-      - Serverless
-  - name: Wasm
-    categories:
-      - Wasm
+      - FOSS Fund
 
 # Header (optional)
 #
