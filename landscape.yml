@@ -20120,1687 +20120,1687 @@ landscape:
             description: Microsoft FOSS Fund #1 recipient
             homepage_url: https://eslint.org
             repo_url: https://github.com/eslint/eslint
-            logo: ./hosted_logos/foss-fund-eslint.svg
+            logo: foss-fund-eslint.svg
             unnamed_organization: true
           - item:
             name: rust-analyzer
             description: Microsoft FOSS Fund #2 recipient
             homepage_url: https://rust-analyzer.github.io
             repo_url: https://github.com/rust-lang/rust-analyzer
-            logo: ./hosted_logos/foss-fund-rust-analyzer.svg
+            logo: foss-fund-rust-analyzer.svg
             unnamed_organization: true
           - item:
             name: ImageSharp
             description: Microsoft FOSS Fund #3 recipient
             homepage_url: https://sixlabors.com/products/imagesharp/
             repo_url: https://github.com/SixLabors/ImageSharp
-            logo: ./hosted_logos/foss-fund-imagesharp.svg
+            logo: foss-fund-imagesharp.svg
             unnamed_organization: true
           - item:
             name: Network Time Protocol (NTP)
             description: Microsoft FOSS Fund #4 recipient
             homepage_url: https://www.ntp.org/
-            logo: ./hosted_logos/foss-fund-network-time-protocol-ntp.svg
+            logo: foss-fund-network-time-protocol-ntp.svg
             unnamed_organization: true
           - item:
             name: NVDA
             description: Microsoft FOSS Fund #5 recipient
             homepage_url: https://www.nvaccess.org/
             repo_url: https://github.com/nvaccess/nvda
-            logo: ./hosted_logos/foss-fund-nvda.svg
+            logo: foss-fund-nvda.svg
             unnamed_organization: true
           - item:
             name: Matplotlib
             description: Microsoft FOSS Fund #6 recipient
             homepage_url: https://matplotlib.org/
             repo_url: https://github.com/matplotlib/matplotlib
-            logo: ./hosted_logos/foss-fund-matplotlib.svg
+            logo: foss-fund-matplotlib.svg
             unnamed_organization: true
           - item:
             name: Home Assistant
             description: Microsoft FOSS Fund #7 recipient
             homepage_url: https://www.home-assistant.io/
             repo_url: https://github.com/home-assistant/core
-            logo: ./hosted_logos/foss-fund-home-assistant.svg
+            logo: foss-fund-home-assistant.svg
             unnamed_organization: true
           - item:
             name: ILSpy
             description: Microsoft FOSS Fund #8 recipient
             homepage_url: https://github.com/icsharpcode/ILSpy
             repo_url: https://github.com/icsharpcode/ILSpy
-            logo: ./hosted_logos/foss-fund-ilspy.svg
+            logo: foss-fund-ilspy.svg
             unnamed_organization: true
           - item:
             name: SharpLab
             description: Microsoft FOSS Fund #9 recipient
             homepage_url: https://sharplab.io/
             repo_url: https://github.com/ashmind/SharpLab
-            logo: ./hosted_logos/foss-fund-sharplab.svg
+            logo: foss-fund-sharplab.svg
             unnamed_organization: true
           - item:
             name: dbatools
             description: Microsoft FOSS Fund #10 recipient
             homepage_url: https://dbatools.io/
             repo_url: https://github.com/dataplat/dbatools
-            logo: ./hosted_logos/foss-fund-dbatools.svg
+            logo: foss-fund-dbatools.svg
             unnamed_organization: true
           - item:
             name: Colorama
             description: Microsoft FOSS Fund #11 recipient
             homepage_url: https://pypi.org/project/colorama/
             repo_url: https://github.com/tartley/colorama
-            logo: ./hosted_logos/foss-fund-colorama.svg
+            logo: foss-fund-colorama.svg
             unnamed_organization: true
           - item:
             name: Ajv
             description: Microsoft FOSS Fund #11 recipient
             homepage_url: https://ajv.js.org/
             repo_url: https://github.com/ajv-validator/ajv
-            logo: ./hosted_logos/foss-fund-ajv.svg
+            logo: foss-fund-ajv.svg
             unnamed_organization: true
           - item:
             name: Ooui
             description: Microsoft FOSS Fund #11 recipient
             homepage_url: https://github.com/praeclarum/Ooui
             repo_url: https://github.com/praeclarum/Ooui
-            logo: ./hosted_logos/foss-fund-ooui.svg
+            logo: foss-fund-ooui.svg
             unnamed_organization: true
           - item:
             name: .NET nanoFramework
             description: Microsoft FOSS Fund #11 recipient
             homepage_url: https://www.nanoframework.net/
             repo_url: https://github.com/nanoframework/home
-            logo: ./hosted_logos/foss-fund-net-nanoframework.svg
+            logo: foss-fund-net-nanoframework.svg
             unnamed_organization: true
           - item:
             name: Hikaya
             description: Microsoft FOSS Fund #11 recipient
             homepage_url: https://hikaya.io/
             repo_url: https://github.com/orgs/hikaya-io/repositories
-            logo: ./hosted_logos/foss-fund-hikaya.svg
+            logo: foss-fund-hikaya.svg
             unnamed_organization: true
           - item:
             name: NgRx
             description: Microsoft FOSS Fund #11 recipient
             homepage_url: https://ngrx.io/
             repo_url: https://github.com/ngrx/platform
-            logo: ./hosted_logos/foss-fund-ngrx.svg
+            logo: foss-fund-ngrx.svg
             unnamed_organization: true
           - item:
             name: Chayn
             description: Microsoft FOSS Fund #11 recipient
             homepage_url: https://chayn.co/
             repo_url: https://github.com/chaynHQ
-            logo: ./hosted_logos/foss-fund-chayn.svg
+            logo: foss-fund-chayn.svg
             unnamed_organization: true
           - item:
             name: QEMU
             description: Microsoft FOSS Fund #12 recipient
             homepage_url: https://www.qemu.org/
             repo_url: https://github.com/qemu/qemu
-            logo: ./hosted_logos/foss-fund-qemu.svg
+            logo: foss-fund-qemu.svg
             unnamed_organization: true
           - item:
             name: OptiKey
             description: Microsoft FOSS Fund #13 recipient
             homepage_url: https://github.com/OptiKey/OptiKey
             repo_url: https://github.com/OptiKey/OptiKey
-            logo: ./hosted_logos/foss-fund-optikey.svg
+            logo: foss-fund-optikey.svg
             unnamed_organization: true
           - item:
             name: Reproducible Builds
             description: Microsoft FOSS Fund #14 recipient
             homepage_url: https://reproducible-builds.org/
-            logo: ./hosted_logos/foss-fund-reproducible-builds.svg
+            logo: foss-fund-reproducible-builds.svg
             unnamed_organization: true
           - item:
             name: Babel
             description: Microsoft FOSS Fund #15 recipient
             homepage_url: https://babeljs.io/
             repo_url: https://github.com/babel/babel
-            logo: ./hosted_logos/foss-fund-babel.svg
+            logo: foss-fund-babel.svg
             unnamed_organization: true
           - item:
             name: OpenStreetMap
             description: Microsoft FOSS Fund #16 recipient
             homepage_url: https://www.openstreetmap.org/
             repo_url: https://github.com/openstreetmap/openstreetmap-website
-            logo: ./hosted_logos/foss-fund-openstreetmap.svg
+            logo: foss-fund-openstreetmap.svg
             unnamed_organization: true
           - item:
             name: curl
             description: Microsoft FOSS Fund #17 recipient
             homepage_url: https://curl.se/
             repo_url: https://github.com/curl/curl
-            logo: ./hosted_logos/foss-fund-curl.svg
+            logo: foss-fund-curl.svg
             unnamed_organization: true
           - item:
             name: MSYS2
             description: Microsoft FOSS Fund #18 recipient
             homepage_url: https://www.msys2.org/
             repo_url: https://github.com/msys2/msys2-installer
-            logo: ./hosted_logos/foss-fund-msys2.svg
+            logo: foss-fund-msys2.svg
             unnamed_organization: true
           - item:
             name: Leaflet
             description: Microsoft FOSS Fund #19 recipient
             homepage_url: https://leafletjs.com/
             repo_url: https://github.com/Leaflet/Leaflet
-            logo: ./hosted_logos/foss-fund-leaflet.svg
+            logo: foss-fund-leaflet.svg
             unnamed_organization: true
           - item:
             name: systemd
             description: Microsoft FOSS Fund #19 recipient
             homepage_url: https://systemd.io/
             repo_url: https://github.com/systemd/systemd
-            logo: ./hosted_logos/foss-fund-systemd.svg
+            logo: foss-fund-systemd.svg
             unnamed_organization: true
           - item:
             name: GNOME
             description: Microsoft FOSS Fund #20 recipient
             homepage_url: https://www.gnome.org/
-            logo: ./hosted_logos/foss-fund-gnome.svg
+            logo: foss-fund-gnome.svg
             unnamed_organization: true
           - item:
             name: Godot Engine
             description: Microsoft FOSS Fund #21 recipient
             homepage_url: https://godotengine.org/
             repo_url: https://github.com/godotengine/godot
-            logo: ./hosted_logos/foss-fund-godot-engine.svg
+            logo: foss-fund-godot-engine.svg
             unnamed_organization: true
           - item:
             name: webpack
             description: Microsoft FOSS Fund #22 recipient
             homepage_url: https://webpack.js.org/
             repo_url: https://github.com/webpack/webpack
-            logo: ./hosted_logos/foss-fund-webpack.svg
+            logo: foss-fund-webpack.svg
             unnamed_organization: true
           - item:
             name: Mermaid
             description: Microsoft FOSS Fund #23 recipient
             homepage_url: https://mermaid.js.org/
             repo_url: https://github.com/mermaid-js/mermaid
-            logo: ./hosted_logos/foss-fund-mermaid.svg
+            logo: foss-fund-mermaid.svg
             unnamed_organization: true
           - item:
             name: OpenSSL
             description: Microsoft FOSS Fund #24 recipient
             homepage_url: https://www.openssl.org/
             repo_url: https://github.com/openssl/openssl
-            logo: ./hosted_logos/foss-fund-openssl.svg
+            logo: foss-fund-openssl.svg
             unnamed_organization: true
           - item:
             name: Eric Zimmerman's Forensic Tools
             description: Microsoft FOSS Fund #26 recipient
             homepage_url: https://github.com/EricZimmerman
             repo_url: https://github.com/EricZimmerman
-            logo: ./hosted_logos/foss-fund-eric-zimmerman-s-forensic-tools.svg
+            logo: foss-fund-eric-zimmerman-s-forensic-tools.svg
             unnamed_organization: true
           - item:
             name: Debian
             description: Microsoft FOSS Fund #27 recipient
             homepage_url: https://www.debian.org/
-            logo: ./hosted_logos/foss-fund-debian.svg
+            logo: foss-fund-debian.svg
             unnamed_organization: true
           - item:
             name: LLVM
             description: Microsoft FOSS Fund #27 recipient
             homepage_url: https://llvm.org/
             repo_url: https://github.com/llvm/llvm-project
-            logo: ./hosted_logos/foss-fund-llvm.svg
+            logo: foss-fund-llvm.svg
             unnamed_organization: true
           - item:
             name: Mastodon
             description: Microsoft FOSS Fund #27 recipient
             homepage_url: https://joinmastodon.org/
             repo_url: https://github.com/mastodon/mastodon
-            logo: ./hosted_logos/foss-fund-mastodon.svg
+            logo: foss-fund-mastodon.svg
             unnamed_organization: true
           - item:
             name: MQTT.js
             description: Microsoft FOSS Fund #27 recipient
             homepage_url: https://github.com/mqttjs/MQTT.js
             repo_url: https://github.com/mqttjs/MQTT.js
-            logo: ./hosted_logos/foss-fund-mqtt-js.svg
+            logo: foss-fund-mqtt-js.svg
             unnamed_organization: true
           - item:
             name: SQLitePCLRaw
             description: Microsoft FOSS Fund #27 recipient
             homepage_url: https://github.com/ericsink/SQLitePCL.raw
             repo_url: https://github.com/ericsink/SQLitePCL.raw
-            logo: ./hosted_logos/foss-fund-sqlitepclraw.svg
+            logo: foss-fund-sqlitepclraw.svg
             unnamed_organization: true
           - item:
             name: BenchmarkDotNet
             description: Microsoft FOSS Fund #28 recipient
             homepage_url: https://benchmarkdotnet.org/
             repo_url: https://github.com/dotnet/BenchmarkDotNet
-            logo: ./hosted_logos/foss-fund-benchmarkdotnet.svg
+            logo: foss-fund-benchmarkdotnet.svg
             unnamed_organization: true
           - item:
             name: JsonSchema.NET
             description: Microsoft FOSS Fund #28 recipient
             homepage_url: https://json-everything.net/
             repo_url: https://github.com/gregsdennis/json-everything
-            logo: ./hosted_logos/foss-fund-jsonschema-net.svg
+            logo: foss-fund-jsonschema-net.svg
             unnamed_organization: true
           - item:
             name: markdig
             description: Microsoft FOSS Fund #28 recipient
             homepage_url: https://github.com/xoofx/markdig
             repo_url: https://github.com/xoofx/markdig
-            logo: ./hosted_logos/foss-fund-markdig.svg
+            logo: foss-fund-markdig.svg
             unnamed_organization: true
           - item:
             name: OpenIddict
             description: Microsoft FOSS Fund #28 recipient
             homepage_url: https://openiddict.com/
             repo_url: https://github.com/openiddict/openiddict-core
-            logo: ./hosted_logos/foss-fund-openiddict.svg
+            logo: foss-fund-openiddict.svg
             unnamed_organization: true
           - item:
             name: clap
             description: Microsoft FOSS Fund #29 recipient
             homepage_url: https://github.com/clap-rs/clap
             repo_url: https://github.com/clap-rs/clap
-            logo: ./hosted_logos/foss-fund-clap.svg
+            logo: foss-fund-clap.svg
             unnamed_organization: true
           - item:
             name: MSW (Mock Service Worker)
             description: Microsoft FOSS Fund #29 recipient
             homepage_url: https://mswjs.io/
             repo_url: https://github.com/mswjs/msw
-            logo: ./hosted_logos/foss-fund-msw-mock-service-worker.svg
+            logo: foss-fund-msw-mock-service-worker.svg
             unnamed_organization: true
           - item:
             name: GNU Compiler Collection (GCC)
             description: Microsoft FOSS Fund #29 recipient
             homepage_url: https://gcc.gnu.org/
-            logo: ./hosted_logos/foss-fund-gnu-compiler-collection-gcc.svg
+            logo: foss-fund-gnu-compiler-collection-gcc.svg
             unnamed_organization: true
           - item:
             name: urllib3
             description: Microsoft FOSS Fund #29 recipient
             homepage_url: https://urllib3.readthedocs.io/
             repo_url: https://github.com/urllib3/urllib3
-            logo: ./hosted_logos/foss-fund-urllib3.svg
+            logo: foss-fund-urllib3.svg
             unnamed_organization: true
           - item:
             name: swc-node
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/swc-project/swc-node
             repo_url: https://github.com/swc-project/swc-node
-            logo: ./hosted_logos/foss-fund-swc-node.svg
+            logo: foss-fund-swc-node.svg
             unnamed_organization: true
           - item:
             name: jsSHA
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/Caligatio/jsSHA
             repo_url: https://github.com/Caligatio/jsSHA
-            logo: ./hosted_logos/foss-fund-jssha.svg
+            logo: foss-fund-jssha.svg
             unnamed_organization: true
           - item:
             name: vergen
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/rustyhorde/vergen
             repo_url: https://github.com/rustyhorde/vergen
-            logo: ./hosted_logos/foss-fund-vergen.svg
+            logo: foss-fund-vergen.svg
             unnamed_organization: true
           - item:
             name: sysinfo
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/GuillaumeGomez/sysinfo
             repo_url: https://github.com/GuillaumeGomez/sysinfo
-            logo: ./hosted_logos/foss-fund-sysinfo.svg
+            logo: foss-fund-sysinfo.svg
             unnamed_organization: true
           - item:
             name: syncpack
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/JamieMason/syncpack
             repo_url: https://github.com/JamieMason/syncpack
-            logo: ./hosted_logos/foss-fund-syncpack.svg
+            logo: foss-fund-syncpack.svg
             unnamed_organization: true
           - item:
             name: FluentValidation
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://docs.fluentvalidation.net/
             repo_url: https://github.com/FluentValidation/FluentValidation
-            logo: ./hosted_logos/foss-fund-fluentvalidation.svg
+            logo: foss-fund-fluentvalidation.svg
             unnamed_organization: true
           - item:
             name: CsvHelper
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://joshclose.github.io/CsvHelper/
             repo_url: https://github.com/JoshClose/CsvHelper
-            logo: ./hosted_logos/foss-fund-csvhelper.svg
+            logo: foss-fund-csvhelper.svg
             unnamed_organization: true
           - item:
             name: better-sqlite3
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/WiseLibs/better-sqlite3
             repo_url: https://github.com/WiseLibs/better-sqlite3
-            logo: ./hosted_logos/foss-fund-better-sqlite3.svg
+            logo: foss-fund-better-sqlite3.svg
             unnamed_organization: true
           - item:
             name: electron-to-chromium
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/Kilian/electron-to-chromium
             repo_url: https://github.com/Kilian/electron-to-chromium
-            logo: ./hosted_logos/foss-fund-electron-to-chromium.svg
+            logo: foss-fund-electron-to-chromium.svg
             unnamed_organization: true
           - item:
             name: OverlayScrollbars
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://kingsora.github.io/OverlayScrollbars/
             repo_url: https://github.com/KingSora/OverlayScrollbars
-            logo: ./hosted_logos/foss-fund-overlayscrollbars.svg
+            logo: foss-fund-overlayscrollbars.svg
             unnamed_organization: true
           - item:
             name: dnd-multi-backend
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://louisbrunner.github.io/dnd-multi-backend/
             repo_url: https://github.com/LouisBrunner/dnd-multi-backend
-            logo: ./hosted_logos/foss-fund-dnd-multi-backend.svg
+            logo: foss-fund-dnd-multi-backend.svg
             unnamed_organization: true
           - item:
             name: fast-xml-parser
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://naturalintelligence.github.io/fast-xml-parser/
             repo_url: https://github.com/NaturalIntelligence/fast-xml-parser
-            logo: ./hosted_logos/foss-fund-fast-xml-parser.svg
+            logo: foss-fund-fast-xml-parser.svg
             unnamed_organization: true
           - item:
             name: PCSX2
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://pcsx2.net/
             repo_url: https://github.com/PCSX2/pcsx2
-            logo: ./hosted_logos/foss-fund-pcsx2.svg
+            logo: foss-fund-pcsx2.svg
             unnamed_organization: true
           - item:
             name: RestSharp
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://restsharp.dev/
             repo_url: https://github.com/restsharp/RestSharp
-            logo: ./hosted_logos/foss-fund-restsharp.svg
+            logo: foss-fund-restsharp.svg
             unnamed_organization: true
           - item:
             name: NSwag
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/RicoSuter/NSwag
             repo_url: https://github.com/RicoSuter/NSwag
-            logo: ./hosted_logos/foss-fund-nswag.svg
+            logo: foss-fund-nswag.svg
             unnamed_organization: true
           - item:
             name: css-declaration-sorter
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/Siilwyn/css-declaration-sorter
             repo_url: https://github.com/Siilwyn/css-declaration-sorter
-            logo: ./hosted_logos/foss-fund-css-declaration-sorter.svg
+            logo: foss-fund-css-declaration-sorter.svg
             unnamed_organization: true
           - item:
             name: react-idle-timer
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://idletimer.dev/
             repo_url: https://github.com/supremetechnopriest/react-idle-timer
-            logo: ./hosted_logos/foss-fund-react-idle-timer.svg
+            logo: foss-fund-react-idle-timer.svg
             unnamed_organization: true
           - item:
             name: rollup-plugin-dts
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/Swatinem/rollup-plugin-dts
             repo_url: https://github.com/Swatinem/rollup-plugin-dts
-            logo: ./hosted_logos/foss-fund-rollup-plugin-dts.svg
+            logo: foss-fund-rollup-plugin-dts.svg
             unnamed_organization: true
           - item:
             name: Verify
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/VerifyTests/Verify
             repo_url: https://github.com/VerifyTests/Verify
-            logo: ./hosted_logos/foss-fund-verify.svg
+            logo: foss-fund-verify.svg
             unnamed_organization: true
           - item:
             name: node-glob-promise
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/ahmadnassri/node-glob-promise
             repo_url: https://github.com/ahmadnassri/node-glob-promise
-            logo: ./hosted_logos/foss-fund-node-glob-promise.svg
+            logo: foss-fund-node-glob-promise.svg
             unnamed_organization: true
           - item:
             name: nanoid
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/ai/nanoid
             repo_url: https://github.com/ai/nanoid
-            logo: ./hosted_logos/foss-fund-nanoid.svg
+            logo: foss-fund-nanoid.svg
             unnamed_organization: true
           - item:
             name: parquet-dotnet
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/aloneguid/parquet-dotnet
             repo_url: https://github.com/aloneguid/parquet-dotnet
-            logo: ./hosted_logos/foss-fund-parquet-dotnet.svg
+            logo: foss-fund-parquet-dotnet.svg
             unnamed_organization: true
           - item:
             name: ecosyste.ms packages
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://packages.ecosyste.ms/
             repo_url: https://github.com/ecosyste-ms/packages
-            logo: ./hosted_logos/foss-fund-ecosyste-ms-packages.svg
+            logo: foss-fund-ecosyste-ms-packages.svg
             unnamed_organization: true
           - item:
             name: Nodemailer
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://nodemailer.com/
             repo_url: https://github.com/nodemailer/nodemailer
-            logo: ./hosted_logos/foss-fund-nodemailer.svg
+            logo: foss-fund-nodemailer.svg
             unnamed_organization: true
           - item:
             name: dockerode
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/apocas/dockerode
             repo_url: https://github.com/apocas/dockerode
-            logo: ./hosted_logos/foss-fund-dockerode.svg
+            logo: foss-fund-dockerode.svg
             unnamed_organization: true
           - item:
             name: GuardClauses
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/ardalis/GuardClauses
             repo_url: https://github.com/ardalis/GuardClauses
-            logo: ./hosted_logos/foss-fund-guardclauses.svg
+            logo: foss-fund-guardclauses.svg
             unnamed_organization: true
           - item:
             name: whatwg-node
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/ardatan/whatwg-node
             repo_url: https://github.com/ardatan/whatwg-node
-            logo: ./hosted_logos/foss-fund-whatwg-node.svg
+            logo: foss-fund-whatwg-node.svg
             unnamed_organization: true
           - item:
             name: libtorrent
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://libtorrent.org/
             repo_url: https://github.com/arvidn/libtorrent
-            logo: ./hosted_logos/foss-fund-libtorrent.svg
+            logo: foss-fund-libtorrent.svg
             unnamed_organization: true
           - item:
             name: pre-commit
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://pre-commit.com/
             repo_url: https://github.com/pre-commit/pre-commit
-            logo: ./hosted_logos/foss-fund-pre-commit.svg
+            logo: foss-fund-pre-commit.svg
             unnamed_organization: true
           - item:
             name: tiny-lru
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/avoidwork/tiny-lru
             repo_url: https://github.com/avoidwork/tiny-lru
-            logo: ./hosted_logos/foss-fund-tiny-lru.svg
+            logo: foss-fund-tiny-lru.svg
             unnamed_organization: true
           - item:
             name: babel-polyfills
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/babel/babel-polyfills
             repo_url: https://github.com/babel/babel-polyfills
-            logo: ./hosted_logos/foss-fund-babel-polyfills.svg
+            logo: foss-fund-babel-polyfills.svg
             unnamed_organization: true
           - item:
             name: react-resizable-box
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/bokuweb/react-resizable-box
             repo_url: https://github.com/bokuweb/react-resizable-box
-            logo: ./hosted_logos/foss-fund-react-resizable-box.svg
+            logo: foss-fund-react-resizable-box.svg
             unnamed_organization: true
           - item:
             name: cronstrue
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://bradymholt.github.io/cronstrue/
             repo_url: https://github.com/bradymholt/cronstrue
-            logo: ./hosted_logos/foss-fund-cronstrue.svg
+            logo: foss-fund-cronstrue.svg
             unnamed_organization: true
           - item:
             name: eslint-plugin-jsdoc
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/gajus/eslint-plugin-jsdoc
             repo_url: https://github.com/gajus/eslint-plugin-jsdoc
-            logo: ./hosted_logos/foss-fund-eslint-plugin-jsdoc.svg
+            logo: foss-fund-eslint-plugin-jsdoc.svg
             unnamed_organization: true
           - item:
             name: node-postgres
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://node-postgres.com/
             repo_url: https://github.com/brianc/node-postgres
-            logo: ./hosted_logos/foss-fund-node-postgres.svg
+            logo: foss-fund-node-postgres.svg
             unnamed_organization: true
           - item:
             name: mime
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/broofa/mime
             repo_url: https://github.com/broofa/mime
-            logo: ./hosted_logos/foss-fund-mime.svg
+            logo: foss-fund-mime.svg
             unnamed_organization: true
           - item:
             name: rollup-plugin-visualizer
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/btd/rollup-plugin-visualizer
             repo_url: https://github.com/btd/rollup-plugin-visualizer
-            logo: ./hosted_logos/foss-fund-rollup-plugin-visualizer.svg
+            logo: foss-fund-rollup-plugin-visualizer.svg
             unnamed_organization: true
           - item:
             name: happy-dom
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/capricorn86/happy-dom
             repo_url: https://github.com/capricorn86/happy-dom
-            logo: ./hosted_logos/foss-fund-happy-dom.svg
+            logo: foss-fund-happy-dom.svg
             unnamed_organization: true
           - item:
             name: listr2
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://listr2.kilic.dev/
             repo_url: https://github.com/listr2/listr2
-            logo: ./hosted_logos/foss-fund-listr2.svg
+            logo: foss-fund-listr2.svg
             unnamed_organization: true
           - item:
             name: dnd-kit
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://dndkit.com/
             repo_url: https://github.com/clauderic/dnd-kit
-            logo: ./hosted_logos/foss-fund-dnd-kit.svg
+            logo: foss-fund-dnd-kit.svg
             unnamed_organization: true
           - item:
             name: kube-rs
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://kube.rs/
             repo_url: https://github.com/kube-rs/kube
-            logo: ./hosted_logos/foss-fund-kube-rs.svg
+            logo: foss-fund-kube-rs.svg
             unnamed_organization: true
           - item:
             name: testcontainers-node
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://node.testcontainers.org/
             repo_url: https://github.com/testcontainers/testcontainers-node
-            logo: ./hosted_logos/foss-fund-testcontainers-node.svg
+            logo: foss-fund-testcontainers-node.svg
             unnamed_organization: true
           - item:
             name: DOMPurify
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/cure53/DOMPurify
             repo_url: https://github.com/cure53/DOMPurify
-            logo: ./hosted_logos/foss-fund-dompurify.svg
+            logo: foss-fund-dompurify.svg
             unnamed_organization: true
           - item:
             name: Iconify
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://iconify.design/
             repo_url: https://github.com/iconify/iconify
-            logo: ./hosted_logos/foss-fund-iconify.svg
+            logo: foss-fund-iconify.svg
             unnamed_organization: true
           - item:
             name: FastExpressionCompiler
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/dadhi/FastExpressionCompiler
             repo_url: https://github.com/dadhi/FastExpressionCompiler
-            logo: ./hosted_logos/foss-fund-fastexpressioncompiler.svg
+            logo: foss-fund-fastexpressioncompiler.svg
             unnamed_organization: true
           - item:
             name: ReportGenerator
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://reportgenerator.io/
             repo_url: https://github.com/danielpalme/ReportGenerator
-            logo: ./hosted_logos/foss-fund-reportgenerator.svg
+            logo: foss-fund-reportgenerator.svg
             unnamed_organization: true
           - item:
             name: tailwind-merge
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/dcastil/tailwind-merge
             repo_url: https://github.com/dcastil/tailwind-merge
-            logo: ./hosted_logos/foss-fund-tailwind-merge.svg
+            logo: foss-fund-tailwind-merge.svg
             unnamed_organization: true
           - item:
             name: Django
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://www.djangoproject.com/
             repo_url: https://github.com/django/django
-            logo: ./hosted_logos/foss-fund-django.svg
+            logo: foss-fund-django.svg
             unnamed_organization: true
           - item:
             name: askama
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/djc/askama
             repo_url: https://github.com/djc/askama
-            logo: ./hosted_logos/foss-fund-askama.svg
+            logo: foss-fund-askama.svg
             unnamed_organization: true
           - item:
             name: Magick.NET
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/dlemstra/Magick.NET
             repo_url: https://github.com/dlemstra/Magick.NET
-            logo: ./hosted_logos/foss-fund-magick-net.svg
+            logo: foss-fund-magick-net.svg
             unnamed_organization: true
           - item:
             name: lib0
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/dmonad/lib0
             repo_url: https://github.com/dmonad/lib0
-            logo: ./hosted_logos/foss-fund-lib0.svg
+            logo: foss-fund-lib0.svg
             unnamed_organization: true
           - item:
             name: cypress-real-events
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/dmtrKovalenko/cypress-real-events
             repo_url: https://github.com/dmtrKovalenko/cypress-real-events
-            logo: ./hosted_logos/foss-fund-cypress-real-events.svg
+            logo: foss-fund-cypress-real-events.svg
             unnamed_organization: true
           - item:
             name: patch-package
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/ds300/patch-package
             repo_url: https://github.com/ds300/patch-package
-            logo: ./hosted_logos/foss-fund-patch-package.svg
+            logo: foss-fund-patch-package.svg
             unnamed_organization: true
           - item:
             name: serde
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://serde.rs/
             repo_url: https://github.com/serde-rs/serde
-            logo: ./hosted_logos/foss-fund-serde.svg
+            logo: foss-fund-serde.svg
             unnamed_organization: true
           - item:
             name: fast-check
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://fast-check.dev/
             repo_url: https://github.com/dubzzz/fast-check
-            logo: ./hosted_logos/foss-fund-fast-check.svg
+            logo: foss-fund-fast-check.svg
             unnamed_organization: true
           - item:
             name: py-setproctitle
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/dvarrazzo/py-setproctitle
             repo_url: https://github.com/dvarrazzo/py-setproctitle
-            logo: ./hosted_logos/foss-fund-py-setproctitle.svg
+            logo: foss-fund-py-setproctitle.svg
             unnamed_organization: true
           - item:
             name: wait-port
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/dwmkerr/wait-port
             repo_url: https://github.com/dwmkerr/wait-port
-            logo: ./hosted_logos/foss-fund-wait-port.svg
+            logo: foss-fund-wait-port.svg
             unnamed_organization: true
           - item:
             name: Starlette
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://www.starlette.io/
             repo_url: https://github.com/encode/starlette
-            logo: ./hosted_logos/foss-fund-starlette.svg
+            logo: foss-fund-starlette.svg
             unnamed_organization: true
           - item:
             name: graphql-ws
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://the-guild.dev/graphql/ws
             repo_url: https://github.com/enisdenjo/graphql-ws
-            logo: ./hosted_logos/foss-fund-graphql-ws.svg
+            logo: foss-fund-graphql-ws.svg
             unnamed_organization: true
           - item:
             name: dom-accessibility-api
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/eps1lon/dom-accessibility-api
             repo_url: https://github.com/eps1lon/dom-accessibility-api
-            logo: ./hosted_logos/foss-fund-dom-accessibility-api.svg
+            logo: foss-fund-dom-accessibility-api.svg
             unnamed_organization: true
           - item:
             name: final-form
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://final-form.org/
             repo_url: https://github.com/final-form/final-form
-            logo: ./hosted_logos/foss-fund-final-form.svg
+            logo: foss-fund-final-form.svg
             unnamed_organization: true
           - item:
             name: pymdown-extensions
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://facelessuser.github.io/pymdown-extensions/
             repo_url: https://github.com/facelessuser/pymdown-extensions
-            logo: ./hosted_logos/foss-fund-pymdown-extensions.svg
+            logo: foss-fund-pymdown-extensions.svg
             unnamed_organization: true
           - item:
             name: ua-parser-js
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/faisalman/ua-parser-js
             repo_url: https://github.com/faisalman/ua-parser-js
-            logo: ./hosted_logos/foss-fund-ua-parser-js.svg
+            logo: foss-fund-ua-parser-js.svg
             unnamed_organization: true
           - item:
             name: react-toastify
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://fkhadra.github.io/react-toastify/
             repo_url: https://github.com/fkhadra/react-toastify
-            logo: ./hosted_logos/foss-fund-react-toastify.svg
+            logo: foss-fund-react-toastify.svg
             unnamed_organization: true
           - item:
             name: FluentAssertions
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://fluentassertions.com/
             repo_url: https://github.com/fluentassertions/fluentassertions
-            logo: ./hosted_logos/foss-fund-fluentassertions.svg
+            logo: foss-fund-fluentassertions.svg
             unnamed_organization: true
           - item:
             name: zeitwerk
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/fxn/zeitwerk
             repo_url: https://github.com/fxn/zeitwerk
-            logo: ./hosted_logos/foss-fund-zeitwerk.svg
+            logo: foss-fund-zeitwerk.svg
             unnamed_organization: true
           - item:
             name: roarr
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/gajus/roarr
             repo_url: https://github.com/gajus/roarr
-            logo: ./hosted_logos/foss-fund-roarr.svg
+            logo: foss-fund-roarr.svg
             unnamed_organization: true
           - item:
             name: howler.js
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://howlerjs.com/
             repo_url: https://github.com/goldfire/howler.js
-            logo: ./hosted_logos/foss-fund-howler-js.svg
+            logo: foss-fund-howler-js.svg
             unnamed_organization: true
           - item:
             name: universal-user-agent
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/gr2m/universal-user-agent
             repo_url: https://github.com/gr2m/universal-user-agent
-            logo: ./hosted_logos/foss-fund-universal-user-agent.svg
+            logo: foss-fund-universal-user-agent.svg
             unnamed_organization: true
           - item:
             name: react-merge-refs
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/gregberge/react-merge-refs
             repo_url: https://github.com/gregberge/react-merge-refs
-            logo: ./hosted_logos/foss-fund-react-merge-refs.svg
+            logo: foss-fund-react-merge-refs.svg
             unnamed_organization: true
           - item:
             name: json-everything
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://json-everything.net/
             repo_url: https://github.com/gregsdennis/json-everything
-            logo: ./hosted_logos/foss-fund-json-everything.svg
+            logo: foss-fund-json-everything.svg
             unnamed_organization: true
           - item:
             name: puppeteer-sharp
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://www.puppeteersharp.com/
             repo_url: https://github.com/hardkoded/puppeteer-sharp
-            logo: ./hosted_logos/foss-fund-puppeteer-sharp.svg
+            logo: foss-fund-puppeteer-sharp.svg
             unnamed_organization: true
           - item:
             name: liquidjs
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://liquidjs.com/
             repo_url: https://github.com/harttle/liquidjs
-            logo: ./hosted_logos/foss-fund-liquidjs.svg
+            logo: foss-fund-liquidjs.svg
             unnamed_organization: true
           - item:
             name: python-fastjsonschema
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://horejsek.github.io/python-fastjsonschema/
             repo_url: https://github.com/horejsek/python-fastjsonschema
-            logo: ./hosted_logos/foss-fund-python-fastjsonschema.svg
+            logo: foss-fund-python-fastjsonschema.svg
             unnamed_organization: true
           - item:
             name: node-glob
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/isaacs/node-glob
             repo_url: https://github.com/isaacs/node-glob
-            logo: ./hosted_logos/foss-fund-node-glob.svg
+            logo: foss-fund-node-glob.svg
             unnamed_organization: true
           - item:
             name: keyring
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/jaraco/keyring
             repo_url: https://github.com/jaraco/keyring
-            logo: ./hosted_logos/foss-fund-keyring.svg
+            logo: foss-fund-keyring.svg
             unnamed_organization: true
           - item:
             name: AutoMapper
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://automapper.org/
             repo_url: https://github.com/AutoMapper/AutoMapper
-            logo: ./hosted_logos/foss-fund-automapper.svg
+            logo: foss-fund-automapper.svg
             unnamed_organization: true
           - item:
             name: pygit2
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://www.pygit2.org/
             repo_url: https://github.com/libgit2/pygit2
-            logo: ./hosted_logos/foss-fund-pygit2.svg
+            logo: foss-fund-pygit2.svg
             unnamed_organization: true
           - item:
             name: Volar (Vue Language Tools)
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://volar.dev/
             repo_url: https://github.com/vuejs/language-tools
-            logo: ./hosted_logos/foss-fund-volar-vue-language-tools.svg
+            logo: foss-fund-volar-vue-language-tools.svg
             unnamed_organization: true
           - item:
             name: tldextract
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/john-kurkowski/tldextract
             repo_url: https://github.com/john-kurkowski/tldextract
-            logo: ./hosted_logos/foss-fund-tldextract.svg
+            logo: foss-fund-tldextract.svg
             unnamed_organization: true
           - item:
             name: jsoneditor
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/josdejong/jsoneditor
             repo_url: https://github.com/josdejong/jsoneditor
-            logo: ./hosted_logos/foss-fund-jsoneditor.svg
+            logo: foss-fund-jsoneditor.svg
             unnamed_organization: true
           - item:
             name: Roslynator
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://josefpihrt.github.io/docs/roslynator/
             repo_url: https://github.com/dotnet/roslynator
-            logo: ./hosted_logos/foss-fund-roslynator.svg
+            logo: foss-fund-roslynator.svg
             unnamed_organization: true
           - item:
             name: PyJWT
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://pyjwt.readthedocs.io/
             repo_url: https://github.com/jpadilla/pyjwt
-            logo: ./hosted_logos/foss-fund-pyjwt.svg
+            logo: foss-fund-pyjwt.svg
             unnamed_organization: true
           - item:
             name: NestJS
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://nestjs.com/
             repo_url: https://github.com/nestjs/nest
-            logo: ./hosted_logos/foss-fund-nestjs.svg
+            logo: foss-fund-nestjs.svg
             unnamed_organization: true
           - item:
             name: i18next-parser
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/i18next/i18next-parser
             repo_url: https://github.com/i18next/i18next-parser
-            logo: ./hosted_logos/foss-fund-i18next-parser.svg
+            logo: foss-fund-i18next-parser.svg
             unnamed_organization: true
           - item:
             name: vue-i18n
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://vue-i18n.intlify.dev/
             repo_url: https://github.com/intlify/vue-i18n
-            logo: ./hosted_logos/foss-fund-vue-i18n.svg
+            logo: foss-fund-vue-i18n.svg
             unnamed_organization: true
           - item:
             name: argcomplete
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/kislyuk/argcomplete
             repo_url: https://github.com/kislyuk/argcomplete
-            logo: ./hosted_logos/foss-fund-argcomplete.svg
+            logo: foss-fund-argcomplete.svg
             unnamed_organization: true
           - item:
             name: konva
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://konvajs.org/
             repo_url: https://github.com/konvajs/konva
-            logo: ./hosted_logos/foss-fund-konva.svg
+            logo: foss-fund-konva.svg
             unnamed_organization: true
           - item:
             name: uPlot
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/leeoniya/uPlot
             repo_url: https://github.com/leeoniya/uPlot
-            logo: ./hosted_logos/foss-fund-uplot.svg
+            logo: foss-fund-uplot.svg
             unnamed_organization: true
           - item:
             name: noUiSlider
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://refreshless.com/nouislider/
             repo_url: https://github.com/leongersen/noUiSlider
-            logo: ./hosted_logos/foss-fund-nouislider.svg
+            logo: foss-fund-nouislider.svg
             unnamed_organization: true
           - item:
             name: mistune
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://mistune.lepture.com/
             repo_url: https://github.com/lepture/mistune
-            logo: ./hosted_logos/foss-fund-mistune.svg
+            logo: foss-fund-mistune.svg
             unnamed_organization: true
           - item:
             name: libjpeg-turbo
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://libjpeg-turbo.org/
             repo_url: https://github.com/libjpeg-turbo/libjpeg-turbo
-            logo: ./hosted_logos/foss-fund-libjpeg-turbo.svg
+            logo: foss-fund-libjpeg-turbo.svg
             unnamed_organization: true
           - item:
             name: mockito-rs
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/lipanski/mockito
             repo_url: https://github.com/lipanski/mockito
-            logo: ./hosted_logos/foss-fund-mockito-rs.svg
+            logo: foss-fund-mockito-rs.svg
             unnamed_organization: true
           - item:
             name: es-abstract
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/ljharb/es-abstract
             repo_url: https://github.com/ljharb/es-abstract
-            logo: ./hosted_logos/foss-fund-es-abstract.svg
+            logo: foss-fund-es-abstract.svg
             unnamed_organization: true
           - item:
             name: language-ext
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://louthy.github.io/language-ext/
             repo_url: https://github.com/louthy/language-ext
-            logo: ./hosted_logos/foss-fund-language-ext.svg
+            logo: foss-fund-language-ext.svg
             unnamed_organization: true
           - item:
             name: clsx
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/lukeed/clsx
             repo_url: https://github.com/lukeed/clsx
-            logo: ./hosted_logos/foss-fund-clsx.svg
+            logo: foss-fund-clsx.svg
             unnamed_organization: true
           - item:
             name: markdown-it
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://markdown-it.github.io/
             repo_url: https://github.com/markdown-it/markdown-it
-            logo: ./hosted_logos/foss-fund-markdown-it.svg
+            logo: foss-fund-markdown-it.svg
             unnamed_organization: true
           - item:
             name: Polly
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://www.thepollyproject.org/
             repo_url: https://github.com/App-vNext/Polly
-            logo: ./hosted_logos/foss-fund-polly.svg
+            logo: foss-fund-polly.svg
             unnamed_organization: true
           - item:
             name: RapidFuzz
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://rapidfuzz.github.io/RapidFuzz/
             repo_url: https://github.com/rapidfuzz/RapidFuzz
-            logo: ./hosted_logos/foss-fund-rapidfuzz.svg
+            logo: foss-fund-rapidfuzz.svg
             unnamed_organization: true
           - item:
             name: html-entities
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/mdevils/html-entities
             repo_url: https://github.com/mdevils/html-entities
-            logo: ./hosted_logos/foss-fund-html-entities.svg
+            logo: foss-fund-html-entities.svg
             unnamed_organization: true
           - item:
             name: merge-anything
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/mesqueeb/merge-anything
             repo_url: https://github.com/mesqueeb/merge-anything
-            logo: ./hosted_logos/foss-fund-merge-anything.svg
+            logo: foss-fund-merge-anything.svg
             unnamed_organization: true
           - item:
             name: python-engineio
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://python-engineio.readthedocs.io/
             repo_url: https://github.com/miguelgrinberg/python-engineio
-            logo: ./hosted_logos/foss-fund-python-engineio.svg
+            logo: foss-fund-python-engineio.svg
             unnamed_organization: true
           - item:
             name: insta
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://insta.rs/
             repo_url: https://github.com/mitsuhiko/insta
-            logo: ./hosted_logos/foss-fund-insta.svg
+            logo: foss-fund-insta.svg
             unnamed_organization: true
           - item:
             name: msw-interceptors
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/mswjs/interceptors
             repo_url: https://github.com/mswjs/interceptors
-            logo: ./hosted_logos/foss-fund-msw-interceptors.svg
+            logo: foss-fund-msw-interceptors.svg
             unnamed_organization: true
           - item:
             name: llfio
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://ned14.github.io/llfio/
             repo_url: https://github.com/ned14/llfio
-            logo: ./hosted_logos/foss-fund-llfio.svg
+            logo: foss-fund-llfio.svg
             unnamed_organization: true
           - item:
             name: coverage.py
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://coverage.readthedocs.io/
             repo_url: https://github.com/nedbat/coveragepy
-            logo: ./hosted_logos/foss-fund-coverage-py.svg
+            logo: foss-fund-coverage-py.svg
             unnamed_organization: true
           - item:
             name: scancode-toolkit
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/nexB/scancode-toolkit
             repo_url: https://github.com/nexB/scancode-toolkit
-            logo: ./hosted_logos/foss-fund-scancode-toolkit.svg
+            logo: foss-fund-scancode-toolkit.svg
             unnamed_organization: true
           - item:
             name: nlohmann/json
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://json.nlohmann.me/
             repo_url: https://github.com/nlohmann/json
-            logo: ./hosted_logos/foss-fund-nlohmann-json.svg
+            logo: foss-fund-nlohmann-json.svg
             unnamed_organization: true
           - item:
             name: ntp-project
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://www.nwtime.org/
             repo_url: https://github.com/ntp-project
-            logo: ./hosted_logos/foss-fund-ntp-project.svg
+            logo: foss-fund-ntp-project.svg
             unnamed_organization: true
           - item:
             name: cargo-semver-checks
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/obi1kenobi/cargo-semver-checks
             repo_url: https://github.com/obi1kenobi/cargo-semver-checks
-            logo: ./hosted_logos/foss-fund-cargo-semver-checks.svg
+            logo: foss-fund-cargo-semver-checks.svg
             unnamed_organization: true
           - item:
             name: react-native-vector-icons
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/oblador/react-native-vector-icons
             repo_url: https://github.com/oblador/react-native-vector-icons
-            logo: ./hosted_logos/foss-fund-react-native-vector-icons.svg
+            logo: foss-fund-react-native-vector-icons.svg
             unnamed_organization: true
           - item:
             name: oj
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/ohler55/oj
             repo_url: https://github.com/ohler55/oj
-            logo: ./hosted_logos/foss-fund-oj.svg
+            logo: foss-fund-oj.svg
             unnamed_organization: true
           - item:
             name: serial_test
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/palfrey/serial_test
             repo_url: https://github.com/palfrey/serial_test
-            logo: ./hosted_logos/foss-fund-serial-test.svg
+            logo: foss-fund-serial-test.svg
             unnamed_organization: true
           - item:
             name: node-openid-client
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/panva/node-openid-client
             repo_url: https://github.com/panva/node-openid-client
-            logo: ./hosted_logos/foss-fund-node-openid-client.svg
+            logo: foss-fund-node-openid-client.svg
             unnamed_organization: true
           - item:
             name: spectre.console
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://spectreconsole.net/
             repo_url: https://github.com/spectreconsole/spectre.console
-            logo: ./hosted_logos/foss-fund-spectre-console.svg
+            logo: foss-fund-spectre-console.svg
             unnamed_organization: true
           - item:
             name: pest
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://pest.rs/
             repo_url: https://github.com/pest-parser/pest
-            logo: ./hosted_logos/foss-fund-pest.svg
+            logo: foss-fund-pest.svg
             unnamed_organization: true
           - item:
             name: react-virtuoso
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://virtuoso.dev/
             repo_url: https://github.com/petyosi/react-virtuoso
-            logo: ./hosted_logos/foss-fund-react-virtuoso.svg
+            logo: foss-fund-react-virtuoso.svg
             unnamed_organization: true
           - item:
             name: MassTransit
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://masstransit.io/
             repo_url: https://github.com/MassTransit/MassTransit
-            logo: ./hosted_logos/foss-fund-masstransit.svg
+            logo: foss-fund-masstransit.svg
             unnamed_organization: true
           - item:
             name: fork-ts-checker-webpack-plugin
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/TypeStrong/fork-ts-checker-webpack-plugin
             repo_url: https://github.com/TypeStrong/fork-ts-checker-webpack-plugin
-            logo: ./hosted_logos/foss-fund-fork-ts-checker-webpack-plugin.svg
+            logo: foss-fund-fork-ts-checker-webpack-plugin.svg
             unnamed_organization: true
           - item:
             name: Plotly.js
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://plotly.com/javascript/
             repo_url: https://github.com/plotly/plotly.js
-            logo: ./hosted_logos/foss-fund-plotly-js.svg
+            logo: foss-fund-plotly-js.svg
             unnamed_organization: true
           - item:
             name: react-zoom-pan-pinch
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://bettertyped.github.io/react-zoom-pan-pinch/
             repo_url: https://github.com/BetterTyped/react-zoom-pan-pinch
-            logo: ./hosted_logos/foss-fund-react-zoom-pan-pinch.svg
+            logo: foss-fund-react-zoom-pan-pinch.svg
             unnamed_organization: true
           - item:
             name: esbuild-loader
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/privatenumber/esbuild-loader
             repo_url: https://github.com/privatenumber/esbuild-loader
-            logo: ./hosted_logos/foss-fund-esbuild-loader.svg
+            logo: foss-fund-esbuild-loader.svg
             unnamed_organization: true
           - item:
             name: broadcast-channel
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/pubkey/broadcast-channel
             repo_url: https://github.com/pubkey/broadcast-channel
-            logo: ./hosted_logos/foss-fund-broadcast-channel.svg
+            logo: foss-fund-broadcast-channel.svg
             unnamed_organization: true
           - item:
             name: typeshed
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/python/typeshed
             repo_url: https://github.com/python/typeshed
-            logo: ./hosted_logos/foss-fund-typeshed.svg
+            logo: foss-fund-typeshed.svg
             unnamed_organization: true
           - item:
             name: websockets
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://websockets.readthedocs.io/
             repo_url: https://github.com/python-websockets/websockets
-            logo: ./hosted_logos/foss-fund-websockets.svg
+            logo: foss-fund-websockets.svg
             unnamed_organization: true
           - item:
             name: openidconnect-rs
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/ramosbugs/openidconnect-rs
             repo_url: https://github.com/ramosbugs/openidconnect-rs
-            logo: ./hosted_logos/foss-fund-openidconnect-rs.svg
+            logo: foss-fund-openidconnect-rs.svg
             unnamed_organization: true
           - item:
             name: html-react-parser
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/remarkablemark/html-react-parser
             repo_url: https://github.com/remarkablemark/html-react-parser
-            logo: ./hosted_logos/foss-fund-html-react-parser.svg
+            logo: foss-fund-html-react-parser.svg
             unnamed_organization: true
           - item:
             name: Polars
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://pola.rs/
             repo_url: https://github.com/pola-rs/polars
-            logo: ./hosted_logos/foss-fund-polars.svg
+            logo: foss-fund-polars.svg
             unnamed_organization: true
           - item:
             name: rkyv
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://rkyv.org/
             repo_url: https://github.com/rkyv/rkyv
-            logo: ./hosted_logos/foss-fund-rkyv.svg
+            logo: foss-fund-rkyv.svg
             unnamed_organization: true
           - item:
             name: FluentFTP
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/robinrodricks/FluentFTP
             repo_url: https://github.com/robinrodricks/FluentFTP
-            logo: ./hosted_logos/foss-fund-fluentftp.svg
+            logo: foss-fund-fluentftp.svg
             unnamed_organization: true
           - item:
             name: actix-web
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://actix.rs/
             repo_url: https://github.com/actix/actix-web
-            logo: ./hosted_logos/foss-fund-actix-web.svg
+            logo: foss-fund-actix-web.svg
             unnamed_organization: true
           - item:
             name: google-libphonenumber
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/ruimarinho/google-libphonenumber
             repo_url: https://github.com/ruimarinho/google-libphonenumber
-            logo: ./hosted_logos/foss-fund-google-libphonenumber.svg
+            logo: foss-fund-google-libphonenumber.svg
             unnamed_organization: true
           - item:
             name: pydantic
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://docs.pydantic.dev/
             repo_url: https://github.com/pydantic/pydantic
-            logo: ./hosted_logos/foss-fund-pydantic.svg
+            logo: foss-fund-pydantic.svg
             unnamed_organization: true
           - item:
             name: javascript-obfuscator
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://obfuscator.io/
             repo_url: https://github.com/javascript-obfuscator/javascript-obfuscator
-            logo: ./hosted_logos/foss-fund-javascript-obfuscator.svg
+            logo: foss-fund-javascript-obfuscator.svg
             unnamed_organization: true
           - item:
             name: pendulum
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://pendulum.eustace.io/
             repo_url: https://github.com/sdispater/pendulum
-            logo: ./hosted_logos/foss-fund-pendulum.svg
+            logo: foss-fund-pendulum.svg
             unnamed_organization: true
           - item:
             name: hyper
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://hyper.rs/
             repo_url: https://github.com/hyperium/hyper
-            logo: ./hosted_logos/foss-fund-hyper.svg
+            logo: foss-fund-hyper.svg
             unnamed_organization: true
           - item:
             name: deepdiff
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://zepworks.com/deepdiff/
             repo_url: https://github.com/seperman/deepdiff
-            logo: ./hosted_logos/foss-fund-deepdiff.svg
+            logo: foss-fund-deepdiff.svg
             unnamed_organization: true
           - item:
             name: rust-openssl
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://docs.rs/openssl/
             repo_url: https://github.com/sfackler/rust-openssl
-            logo: ./hosted_logos/foss-fund-rust-openssl.svg
+            logo: foss-fund-rust-openssl.svg
             unnamed_organization: true
           - item:
             name: opencvsharp
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/shimat/opencvsharp
             repo_url: https://github.com/shimat/opencvsharp
-            logo: ./hosted_logos/foss-fund-opencvsharp.svg
+            logo: foss-fund-opencvsharp.svg
             unnamed_organization: true
           - item:
             name: sindresorhus/type-fest
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/sindresorhus/type-fest
             repo_url: https://github.com/sindresorhus/type-fest
-            logo: ./hosted_logos/foss-fund-sindresorhus-type-fest.svg
+            logo: foss-fund-sindresorhus-type-fest.svg
             unnamed_organization: true
           - item:
             name: mkdocs-material
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://squidfunk.github.io/mkdocs-material/
             repo_url: https://github.com/squidfunk/mkdocs-material
-            logo: ./hosted_logos/foss-fund-mkdocs-material.svg
+            logo: foss-fund-mkdocs-material.svg
             unnamed_organization: true
           - item:
             name: half-rs
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/starkat99/half-rs
             repo_url: https://github.com/starkat99/half-rs
-            logo: ./hosted_logos/foss-fund-half-rs.svg
+            logo: foss-fund-half-rs.svg
             unnamed_organization: true
           - item:
             name: memfs
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/streamich/memfs
             repo_url: https://github.com/streamich/memfs
-            logo: ./hosted_logos/foss-fund-memfs.svg
+            logo: foss-fund-memfs.svg
             unnamed_organization: true
           - item:
             name: CSpell
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://cspell.org/
             repo_url: https://github.com/streetsidesoftware/cspell
-            logo: ./hosted_logos/foss-fund-cspell.svg
+            logo: foss-fund-cspell.svg
             unnamed_organization: true
           - item:
             name: handlebars-rust
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/sunng87/handlebars-rust
             repo_url: https://github.com/sunng87/handlebars-rust
-            logo: ./hosted_logos/foss-fund-handlebars-rust.svg
+            logo: foss-fund-handlebars-rust.svg
             unnamed_organization: true
           - item:
             name: monaco-react
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/suren-atoyan/monaco-react
             repo_url: https://github.com/suren-atoyan/monaco-react
-            logo: ./hosted_logos/foss-fund-monaco-react.svg
+            logo: foss-fund-monaco-react.svg
             unnamed_organization: true
           - item:
             name: swc
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://swc.rs/
             repo_url: https://github.com/swc-project/swc
-            logo: ./hosted_logos/foss-fund-swc.svg
+            logo: foss-fund-swc.svg
             unnamed_organization: true
           - item:
             name: pin-project
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/taiki-e/pin-project
             repo_url: https://github.com/taiki-e/pin-project
-            logo: ./hosted_logos/foss-fund-pin-project.svg
+            logo: foss-fund-pin-project.svg
             unnamed_organization: true
           - item:
             name: Tauri
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://tauri.app/
             repo_url: https://github.com/tauri-apps/tauri
-            logo: ./hosted_logos/foss-fund-tauri.svg
+            logo: foss-fund-tauri.svg
             unnamed_organization: true
           - item:
             name: FastAPI
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://fastapi.tiangolo.com/
             repo_url: https://github.com/fastapi/fastapi
-            logo: ./hosted_logos/foss-fund-fastapi.svg
+            logo: foss-fund-fastapi.svg
             unnamed_organization: true
           - item:
             name: dts-bundle-generator
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/timocov/dts-bundle-generator
             repo_url: https://github.com/timocov/dts-bundle-generator
-            logo: ./hosted_logos/foss-fund-dts-bundle-generator.svg
+            logo: foss-fund-dts-bundle-generator.svg
             unnamed_organization: true
           - item:
             name: Tokio
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://tokio.rs/
             repo_url: https://github.com/tokio-rs/tokio
-            logo: ./hosted_logos/foss-fund-tokio.svg
+            logo: foss-fund-tokio.svg
             unnamed_organization: true
           - item:
             name: tocbot
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://tscanlin.github.io/tocbot/
             repo_url: https://github.com/tscanlin/tocbot
-            logo: ./hosted_logos/foss-fund-tocbot.svg
+            logo: foss-fund-tocbot.svg
             unnamed_organization: true
           - item:
             name: json-server
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/typicode/json-server
             repo_url: https://github.com/typicode/json-server
-            logo: ./hosted_logos/foss-fund-json-server.svg
+            logo: foss-fund-json-server.svg
             unnamed_organization: true
           - item:
             name: unified
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://unifiedjs.com/
             repo_url: https://github.com/unifiedjs/unified
-            logo: ./hosted_logos/foss-fund-unified.svg
+            logo: foss-fund-unified.svg
             unnamed_organization: true
           - item:
             name: wonka
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/0no-co/wonka
             repo_url: https://github.com/0no-co/wonka
-            logo: ./hosted_logos/foss-fund-wonka.svg
+            logo: foss-fund-wonka.svg
             unnamed_organization: true
           - item:
             name: Compodoc
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://compodoc.app/
             repo_url: https://github.com/compodoc/compodoc
-            logo: ./hosted_logos/foss-fund-compodoc.svg
+            logo: foss-fund-compodoc.svg
             unnamed_organization: true
           - item:
             name: json-schema (Ruby)
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/voxpupuli/json-schema
             repo_url: https://github.com/voxpupuli/json-schema
-            logo: ./hosted_logos/foss-fund-json-schema-ruby.svg
+            logo: foss-fund-json-schema-ruby.svg
             unnamed_organization: true
           - item:
             name: publicsuffix-ruby
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/weppos/publicsuffix-ruby
             repo_url: https://github.com/weppos/publicsuffix-ruby
-            logo: ./hosted_logos/foss-fund-publicsuffix-ruby.svg
+            logo: foss-fund-publicsuffix-ruby.svg
             unnamed_organization: true
           - item:
             name: react-pdf
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://react-pdf.wojtekmaj.pl/
             repo_url: https://github.com/wojtekmaj/react-pdf
-            logo: ./hosted_logos/foss-fund-react-pdf.svg
+            logo: foss-fund-react-pdf.svg
             unnamed_organization: true
           - item:
             name: property-information
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/wooorm/property-information
             repo_url: https://github.com/wooorm/property-information
-            logo: ./hosted_logos/foss-fund-property-information.svg
+            logo: foss-fund-property-information.svg
             unnamed_organization: true
           - item:
             name: React Flow
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://reactflow.dev/
             repo_url: https://github.com/xyflow/xyflow
-            logo: ./hosted_logos/foss-fund-react-flow.svg
+            logo: foss-fund-react-flow.svg
             unnamed_organization: true
           - item:
             name: Vue.js
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://vuejs.org/
             repo_url: https://github.com/vuejs/core
-            logo: ./hosted_logos/foss-fund-vue-js.svg
+            logo: foss-fund-vue-js.svg
             unnamed_organization: true
           - item:
             name: flume
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/zesterer/flume
             repo_url: https://github.com/zesterer/flume
-            logo: ./hosted_logos/foss-fund-flume.svg
+            logo: foss-fund-flume.svg
             unnamed_organization: true
           - item:
             name: zlib-ng
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/zlib-ng/zlib-ng
             repo_url: https://github.com/zlib-ng/zlib-ng
-            logo: ./hosted_logos/foss-fund-zlib-ng.svg
+            logo: foss-fund-zlib-ng.svg
             unnamed_organization: true
           - item:
             name: react-native-localize
             description: Microsoft FOSS Fund #30 recipient
             homepage_url: https://github.com/zoontek/react-native-localize
             repo_url: https://github.com/zoontek/react-native-localize
-            logo: ./hosted_logos/foss-fund-react-native-localize.svg
+            logo: foss-fund-react-native-localize.svg
             unnamed_organization: true
           - item:
             name: aho-corasick
             description: Microsoft FOSS Fund #31 recipient
             homepage_url: https://github.com/BurntSushi/aho-corasick
             repo_url: https://github.com/BurntSushi/aho-corasick
-            logo: ./hosted_logos/foss-fund-aho-corasick.svg
+            logo: foss-fund-aho-corasick.svg
             unnamed_organization: true
           - item:
             name: change-case
             description: Microsoft FOSS Fund #31 recipient
             homepage_url: https://github.com/blakeembrey/change-case
             repo_url: https://github.com/blakeembrey/change-case
-            logo: ./hosted_logos/foss-fund-change-case.svg
+            logo: foss-fund-change-case.svg
             unnamed_organization: true
           - item:
             name: YAML (JS)
             description: Microsoft FOSS Fund #31 recipient
             homepage_url: https://eemeli.org/yaml/
             repo_url: https://github.com/eemeli/yaml
-            logo: ./hosted_logos/foss-fund-yaml-js.svg
+            logo: foss-fund-yaml-js.svg
             unnamed_organization: true
           - item:
             name: Knip
             description: Microsoft FOSS Fund #31 recipient
             homepage_url: https://knip.dev/
             repo_url: https://github.com/webpro-nl/knip
-            logo: ./hosted_logos/foss-fund-knip.svg
+            logo: foss-fund-knip.svg
             unnamed_organization: true
           - item:
             name: charset-normalizer
             description: Microsoft FOSS Fund #31 recipient
             homepage_url: https://charset-normalizer.readthedocs.io/
             repo_url: https://github.com/Ousret/charset-normalizer
-            logo: ./hosted_logos/foss-fund-charset-normalizer.svg
+            logo: foss-fund-charset-normalizer.svg
             unnamed_organization: true
           - item:
             name: pull (keep forks up-to-date)
             description: Microsoft FOSS Fund #31 recipient
             homepage_url: https://github.com/wei/pull
             repo_url: https://github.com/wei/pull
-            logo: ./hosted_logos/foss-fund-pull-keep-forks-up-to-date.svg
+            logo: foss-fund-pull-keep-forks-up-to-date.svg
             unnamed_organization: true
           - item:
             name: Cobra (Go)
             description: Microsoft FOSS Fund #32 recipient
             homepage_url: https://cobra.dev/
             repo_url: https://github.com/spf13/cobra
-            logo: ./hosted_logos/foss-fund-cobra-go.svg
+            logo: foss-fund-cobra-go.svg
             unnamed_organization: true
           - item:
             name: Electron
             description: Microsoft FOSS Fund #32 recipient
             homepage_url: https://www.electronjs.org/
             repo_url: https://github.com/electron/electron
-            logo: ./hosted_logos/foss-fund-electron.svg
+            logo: foss-fund-electron.svg
             unnamed_organization: true
           - item:
             name: Node.js
             description: Microsoft FOSS Fund #32 recipient
             homepage_url: https://nodejs.org/
             repo_url: https://github.com/nodejs/node
-            logo: ./hosted_logos/foss-fund-node-js.svg
+            logo: foss-fund-node-js.svg
             unnamed_organization: true
           - item:
             name: ScanCode
             description: Microsoft FOSS Fund #32 recipient
             homepage_url: https://scancodeio.readthedocs.io/
             repo_url: https://github.com/aboutcode-org/scancode.io
-            logo: ./hosted_logos/foss-fund-scancode.svg
+            logo: foss-fund-scancode.svg
             unnamed_organization: true
           - item:
             name: XcodeBuildMCP
             description: Microsoft FOSS Fund #34 recipient
             homepage_url: https://github.com/cameroncooke/XcodeBuildMCP
             repo_url: https://github.com/cameroncooke/XcodeBuildMCP
-            logo: ./hosted_logos/foss-fund-xcodebuildmcp.svg
+            logo: foss-fund-xcodebuildmcp.svg
             unnamed_organization: true
           - item:
             name: Zod
             description: Microsoft FOSS Fund #34 recipient
             homepage_url: https://zod.dev/
             repo_url: https://github.com/colinhacks/zod
-            logo: ./hosted_logos/foss-fund-zod.svg
+            logo: foss-fund-zod.svg
             unnamed_organization: true
           - item:
             name: UraniumUI
             description: Microsoft FOSS Fund #34 recipient
             homepage_url: https://enisn-projects.io/docs/en/uranium/latest
             repo_url: https://github.com/enisn/UraniumUI
-            logo: ./hosted_logos/foss-fund-uraniumui.svg
+            logo: foss-fund-uraniumui.svg
             unnamed_organization: true
           - item:
             name: FNA
             description: Microsoft FOSS Fund #34 recipient
             homepage_url: https://fna-xna.github.io/
             repo_url: https://github.com/FNA-XNA/FNA
-            logo: ./hosted_logos/foss-fund-fna.svg
+            logo: foss-fund-fna.svg
             unnamed_organization: true
           - item:
             name: EFCore.Visualizer
             description: Microsoft FOSS Fund #34 recipient
             homepage_url: https://github.com/Giorgi/EFCore.Visualizer
             repo_url: https://github.com/Giorgi/EFCore.Visualizer
-            logo: ./hosted_logos/foss-fund-efcore-visualizer.svg
+            logo: foss-fund-efcore-visualizer.svg
             unnamed_organization: true
           - item:
             name: golangci-lint
             description: Microsoft FOSS Fund #34 recipient
             homepage_url: https://golangci-lint.run/
             repo_url: https://github.com/golangci/golangci-lint
-            logo: ./hosted_logos/foss-fund-golangci-lint.svg
+            logo: foss-fund-golangci-lint.svg
             unnamed_organization: true
           - item:
             name: dotnet-bluetooth-le
             description: Microsoft FOSS Fund #34 recipient
             homepage_url: https://github.com/dotnet-bluetooth-le/dotnet-bluetooth-le
             repo_url: https://github.com/dotnet-bluetooth-le/dotnet-bluetooth-le
-            logo: ./hosted_logos/foss-fund-dotnet-bluetooth-le.svg
+            logo: foss-fund-dotnet-bluetooth-le.svg
             unnamed_organization: true
           - item:
             name: DotNet.Meteor
             description: Microsoft FOSS Fund #34 recipient
             homepage_url: https://github.com/JaneySprings/DotNet.Meteor
             repo_url: https://github.com/JaneySprings/DotNet.Meteor
-            logo: ./hosted_logos/foss-fund-dotnet-meteor.svg
+            logo: foss-fund-dotnet-meteor.svg
             unnamed_organization: true
           - item:
             name: MonoGame
             description: Microsoft FOSS Fund #34 recipient
             homepage_url: https://monogame.net/
             repo_url: https://github.com/MonoGame/MonoGame
-            logo: ./hosted_logos/foss-fund-monogame.svg
+            logo: foss-fund-monogame.svg
             unnamed_organization: true
           - item:
             name: MauiAppAccelerator
             description: Microsoft FOSS Fund #34 recipient
             homepage_url: https://github.com/mrlacey/MauiAppAccelerator
             repo_url: https://github.com/mrlacey/MauiAppAccelerator
-            logo: ./hosted_logos/foss-fund-mauiappaccelerator.svg
+            logo: foss-fund-mauiappaccelerator.svg
             unnamed_organization: true
           - item:
             name: pnpm
             description: Microsoft FOSS Fund #34 recipient
             homepage_url: https://pnpm.io/
             repo_url: https://github.com/pnpm/pnpm
-            logo: ./hosted_logos/foss-fund-pnpm.svg
+            logo: foss-fund-pnpm.svg
             unnamed_organization: true
           - item:
             name: VSCode Icons
             description: Microsoft FOSS Fund #34 recipient
             homepage_url: https://github.com/vscode-icons/vscode-icons
             repo_url: https://github.com/vscode-icons/vscode-icons
-            logo: ./hosted_logos/foss-fund-vscode-icons.svg
+            logo: foss-fund-vscode-icons.svg
             unnamed_organization: true
           - item:
             name: Context7
             description: Microsoft FOSS Fund #35 recipient
             homepage_url: https://context7.com/
             repo_url: https://github.com/upstash/context7
-            logo: ./hosted_logos/foss-fund-context7.svg
+            logo: foss-fund-context7.svg
             unnamed_organization: true
           - item:
             name: fastapi-mcp
             description: Microsoft FOSS Fund #35 recipient
             homepage_url: https://github.com/tadata-org/fastapi_mcp
             repo_url: https://github.com/tadata-org/fastapi_mcp
-            logo: ./hosted_logos/foss-fund-fastapi-mcp.svg
+            logo: foss-fund-fastapi-mcp.svg
             unnamed_organization: true
           - item:
             name: Serena
             description: Microsoft FOSS Fund #35 recipient
             homepage_url: https://github.com/oraios/serena
             repo_url: https://github.com/oraios/serena
-            logo: ./hosted_logos/foss-fund-serena.svg
+            logo: foss-fund-serena.svg
             unnamed_organization: true
           - item:
             name: n8n-mcp
             description: Microsoft FOSS Fund #35 recipient
             homepage_url: https://github.com/czlonkowski/n8n-mcp
             repo_url: https://github.com/czlonkowski/n8n-mcp
-            logo: ./hosted_logos/foss-fund-n8n-mcp.svg
+            logo: foss-fund-n8n-mcp.svg
             unnamed_organization: true
           - item:
             name: unity-mcp
             description: Microsoft FOSS Fund #35 recipient
             homepage_url: https://github.com/justinpbarnett/unity-mcp
             repo_url: https://github.com/justinpbarnett/unity-mcp
-            logo: ./hosted_logos/foss-fund-unity-mcp.svg
+            logo: foss-fund-unity-mcp.svg
             unnamed_organization: true
           - item:
             name: nuxt-mcp
             description: Microsoft FOSS Fund #35 recipient
             homepage_url: https://github.com/antfu/nuxt-mcp
             repo_url: https://github.com/antfu/nuxt-mcp
-            logo: ./hosted_logos/foss-fund-nuxt-mcp.svg
+            logo: foss-fund-nuxt-mcp.svg
             unnamed_organization: true
           - item:
             name: MCP Inspector
             description: Microsoft FOSS Fund #35 recipient
             homepage_url: https://github.com/mcpjam/inspector
             repo_url: https://github.com/mcpjam/inspector
-            logo: ./hosted_logos/foss-fund-mcp-inspector.svg
+            logo: foss-fund-mcp-inspector.svg
             unnamed_organization: true
           - item:
             name: Peekaboo
             description: Microsoft FOSS Fund #35 recipient
             homepage_url: https://github.com/steipete/Peekaboo
             repo_url: https://github.com/steipete/Peekaboo
-            logo: ./hosted_logos/foss-fund-peekaboo.svg
+            logo: foss-fund-peekaboo.svg
             unnamed_organization: true
           - item:
             name: coderunner
             description: Microsoft FOSS Fund #35 recipient
             homepage_url: https://github.com/instavm/coderunner
             repo_url: https://github.com/instavm/coderunner
-            logo: ./hosted_logos/foss-fund-coderunner.svg
+            logo: foss-fund-coderunner.svg
             unnamed_organization: true
